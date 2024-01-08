@@ -1,2 +1,5 @@
-# nfl_data_bowl_2024
-2024 NFL Big Data Bowl Submission
+# NFL Big Data Bowl - Rice University
+
+2024 Submisison form the Rice University Undergraduate Team of Calvin Aberg
+
+
